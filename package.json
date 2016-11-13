@@ -13,6 +13,8 @@
     "babel-loader": "^6.2.7",
     "babel-preset-es2015": "^6.18.0",
     "babel-register": "^6.18.0",
+    "csjs": "^1.0.6",
+    "insert-css": "^1.1.0",
     "react": "^15.3.2",
     "react-dom": "^15.3.2",
     "react-hot-loader": "^3.0.0-beta.6",
