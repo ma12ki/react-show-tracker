@@ -1,8 +1,8 @@
-import * as React from "react";
+import * as React from 'react';
 
 import { helloStyles } from './Hello-styles';
 
-export interface HelloProps { compiler: string; framework: string };
+export interface HelloProps { compiler: string; framework: string; };
 
 export class Hello extends React.Component<HelloProps, {}> {
     render() {
